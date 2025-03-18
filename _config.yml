@@ -17,15 +17,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blockchain Blog.
-email: Marketing.blockchain@oodles.io
+title: "Blockchain Blog"
+email: marketing.blockchain@oodles.io
 description: >- # this means to ignore newlines until "baseurl:"
 Oodles Blockchain Blog shares expert insights, trends, and innovations in blockchain technology, covering DeFi, NFTs, smart contracts, and more. Stay updated with the latest industry news.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://oodlesblockchainmarketing.github.io/OodlesBlockchain.github.io/" # thm
-twitter_username: oodlesblckchain
-github_username:  Oodlesblockchainmarketing
+twitter_username: "oodlesblckchain"
+github_username:  "Oodlesblockchainmarketing"
 
 # Build settings
 theme: minima
