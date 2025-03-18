@@ -18,11 +18,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Blockchain Blog.
-email: Marketing.blokchain@oodles.io
+email: Marketing.blockchain@oodles.io
 description: >- # this means to ignore newlines until "baseurl:"
 Oodles Blockchain Blog shares expert insights, trends, and innovations in blockchain technology, covering DeFi, NFTs, smart contracts, and more. Stay updated with the latest industry news.
+
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://oodlesblockchainmarketing.github.io/OodlesBlockchain.github.io/" # thm
 twitter_username: oodlesblckchain
 github_username:  Oodlesblockchainmarketing
 
